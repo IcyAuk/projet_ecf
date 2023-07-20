@@ -10,7 +10,9 @@
 </head>
 
 <body>
-    <?php include 'front/intro.php' ?>
+    <?php include 'front/index_header.php' ?>
+    <?php include 'front/index_main.php'?>
+    <?php include 'front/index_footer.php'?>
 </body>
 
 </html>
