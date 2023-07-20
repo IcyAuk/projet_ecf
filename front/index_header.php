@@ -1,8 +1,8 @@
-<header class="desktop-header">
+<header class="desktop-header bordered-bottom">
 <img src="ressources/logo.PNG" alt="Placeholder Image">
     <div class="navigation">
-        <button>Acceuil</button>
-        <button>Nous Contacter</button>
-        <button>Se connecter</button>
+        <button class="button">Acceuil</button>
+        <button class="button">Nous Contacter</button>
+        <button class="button">Se connecter</button>
     </div>
 </header>
