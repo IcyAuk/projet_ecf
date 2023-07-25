@@ -10,9 +10,12 @@
 </head>
 
 <body>
+<!--
     <?php include 'front/index_header.php' ?>
     <?php include 'front/index_main.php'?>
     <?php include 'front/index_footer.php'?>
+!-->
+    <?php require_once 'front/test.php';?>
 </body>
 
 </html>
